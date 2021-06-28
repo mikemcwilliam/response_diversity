@@ -1,14 +1,4 @@
 
-
-#sitedata[,c("1995 Lizard 1-7m","2002 Lizard 1-7m","2011 Lizard 1-7m")]
-#----sitedata[,c("1995 Lizard 1-7m")]<-sitedata[,c("1996 Lizard 1-7m")]
-#----sitedata[c("Galaxea","Astreopora","Mussidae"),c("1995 Lizard 1-7m","2002 Lizard 1-7m","2011 Lizard 1-7m")]<-0
-sitedata[is.na(sitedata)]<-0
-#sitedata[,"1995 Lizard 1-7m"]<-rowMeans(cbind(data.frame(sitedata[,"1995 Lizard 1-7m"]),data.frame(sitedata[,"1996 Lizard 1-7m"])))
-#sitedata<-sitedata[apply(sitedata, 1, function(x) !all(abs(x)<1)),] # RARE
-
-
-
 # coral abundances at 3 times in 3 places
 
 library("reshape2")
@@ -126,10 +116,22 @@ abun <- abun[abun$Site %in% sites,]
 depths <- c("1-7m", "7-15m", "15-30m")
 abun <- abun[abun$Zone %in% depths,]
 
+
+
+#sitedata[,c("1995 Lizard 1-7m","2002 Lizard 1-7m","2011 Lizard 1-7m")]
+#----sitedata[,c("1995 Lizard 1-7m")]<-sitedata[,c("1996 Lizard 1-7m")]
+#----sitedata[c("Galaxea","Astreopora","Mussidae"),c("1995 Lizard 1-7m","2002 Lizard 1-7m","2011 Lizard 1-7m")]<-0
+sitedata[is.na(sitedata)]<-0
+#sitedata[,"1995 Lizard 1-7m"]<-rowMeans(cbind(data.frame(sitedata[,"1995 Lizard 1-7m"]),data.frame(sitedata[,"1996 Lizard 1-7m"])))
+#sitedata<-sitedata[apply(sitedata, 1, function(x) !all(abs(x)<1)),] # RARE
+
+
 #moorea<-subset(moorea, Taxon!="Echinopora" & Taxon!="Stylocoeniella") 
 
 # aggregate replicates.... 
 avabun <- aggregate(x~., subset(abun, select=-Replicate), mean)
+
+#################
 
 # Define three points
 avabun$Points<-
@@ -144,11 +146,16 @@ ifelse(avabun$Region=="Polynesia" & avabun$Year==1979, 1,
 ifelse(avabun$Region=="Polynesia" & avabun$Year==1982, 2,
 ifelse(avabun$Region=="Polynesia"& avabun$Year==2003, 3, 0)))))))))
 
-head(avabun)
+cover <- aggregate(x~., subset(avabun, select=-c(Taxon)), sum)
 
-write.csv(avabun, file="data/abundance.csv")
+write.csv(cover, file="data/cover.csv")
+
+avabun2 <- subset(avabun, Points>0)
+
+write.csv(avabun2, file="data/abundance.csv")
 
 
+#################
 ##### TRAIT DATA    
 
 traits<-read.csv("data/traits/traits.csv")

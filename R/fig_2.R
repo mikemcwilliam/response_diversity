@@ -1,12 +1,12 @@
 
 # add Trapon
 trapon <- read.csv("data/literature/trapon_Moorea.csv", row.names=1)
-trapon$t0 <- sites$t0[match(trapon$IDsite, sites$IDsite)]
+trapon$t0 <- cover$t0[match(trapon$IDsite, cover$IDsite)]
 trapon$rel_cover <- (trapon$x-trapon$t0)/trapon$t0*100
 
-colnames(trapon) == colnames(sites)
+colnames(trapon) == colnames(cover)
 
-sitesplus<-rbind(sites, trapon)
+sitesplus<-rbind(cover, trapon)
 head(sitesplus)
 
 #traponDeep<-subset(covchange, IDsite.x=="Tiahura 7-15m" & Year %in% traponSlope$Year)
@@ -51,9 +51,9 @@ theme_cowplot()+
 theme(axis.line.x=element_blank(), axis.title=element_text(size=8),axis.text=element_text(size=8), strip.text=element_text(size=8), strip.background=element_blank(), plot.title=element_text(size=10, hjust=0.5))
 covplot
 
-maxfd<-aggregate(FDis~Region+Year+Points,subset(sitefd, Points>0), max)
+maxfd<-aggregate(FDis~Region+Year+Points,subset(fd, Points>0), max)
 
-fdplot <- ggplot(sitefd[sitefd$Points>0,], aes(as.numeric(Year), FDis))+
+fdplot <- ggplot(fd[fd$Points>0,], aes(as.numeric(Year), FDis))+
 geom_path(aes(group=paste(Year,Region)),col="grey")+
 stat_summary(aes(group=Region), fun="median", geom="line", size=0.8)+
 stat_summary(fun="median", geom="line", size=0.75, aes(col=Region))+

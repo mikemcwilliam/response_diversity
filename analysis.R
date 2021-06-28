@@ -15,25 +15,24 @@ library("FNN")
 #source("R/data_prep.R")
 abun <- read.csv("data/abundance.csv")
 traits <- read.csv("data/traits.csv")
+cover <- read.csv("data/cover.csv", row.name=1)
 
 # colours
 cols <- c("#fbb4ae", "#b3cde3", "#bee2b7")
 names(cols) <- c("Jamaica","GBR", "Polynesia")
 
 ################################
-# coral cover relative to t0
-
-sites <- aggregate(x~., subset(abun, select=-c(X, Taxon)), sum)
+# cover
 
 t0 <- NULL
-for(x in unique(sites$IDsite)){
-sub <- sites[sites$IDsite==x,]
+for(x in unique(cover$IDsite)){
+sub <- cover[cover$IDsite==x,]
 cov <- sub[which.min(sub$Year),"x"]
 t0 <- rbind(t0, data.frame(IDsite=x, t0=cov))}
-sites$t0 <- t0$t0[match(sites$IDsite, t0$IDsite)]
-sites$rel_cover <- (sites$x-sites$t0)/sites$t0*100
+cover$t0 <- t0$t0[match(cover$IDsite, t0$IDsite)]
+cover$rel_cover <- (cover$x-cover$t0)/cover$t0*100
 
-ggplot(sites, aes(as.numeric(Year), rel_cover))+
+ggplot(cover, aes(as.numeric(Year), rel_cover))+
 geom_line(aes(col=Zone))+
 stat_summary(geom="line", fun="mean")+
 facet_wrap(~Region)
@@ -61,24 +60,27 @@ rownames(t) == rownames(a)
 fd<-as.data.frame(dbFD(a=t(a), x=dist(t,method = "euclidean")))
 cwms<-functcomp(a=as.matrix(t(a)), x=t)
 fd$ID<-rownames(fd)
-sitefd<-merge(x=fd, y=sites, by="ID", all.x=TRUE, all.y=TRUE)
-head(sitefd)
+fd[,colnames(cover)]<-cover[match(fd$ID, cover$ID), colnames(cover)]
 
-ggplot(sitefd[sitefd$Points>0,], aes(as.numeric(Year), FDis, col=Region))+stat_summary(fun="median", geom="line")+stat_summary(fun="median", geom="point")
+ggplot(fd, aes(as.numeric(Year), FDis, col=Region))+stat_summary(fun="median", geom="line")+stat_summary(fun="median", geom="point")
 
 ################################
 # relative FD change
 
 fd0 <- NULL
-for(x in unique(sitefd$IDsite)){
-sub <- sitefd[sitefd$IDsite==x,]
-fd <- sub[which.min(sub$Year),"FDis"]
-fd0 <- rbind(fd0, data.frame(IDsite=x, fd0=fd))}
-sitefd$fd0 <- fd0$fd0[match(sitefd$IDsite, fd0$IDsite)]
-sitefd$rel_fd <- (sitefd$FDis-sitefd$fd0)/sitefd$fd0*100
+for(x in unique(fd$IDsite)){
+sub <- fd[fd$IDsite==x,]
+fdis <- sub[which.min(sub$Year),"FDis"]
+fd0 <- rbind(fd0, data.frame(IDsite=x, fd0=fdis))}
+fd$fd0 <- fd0$fd0[match(fd$IDsite, fd0$IDsite)]
+fd$rel_fd <- (fd$FDis-fd$fd0)/fd$fd0*100
 
-recov <- subset(sitefd, Points==3)
+head(fd)
+head(abun)
+
+recov <- subset(fd, Points=="3")
 recov <- melt(recov[,c("Region", "Zone","rel_fd","rel_cover")])
+recov
 ggplot(recov, aes(variable, value, group=Zone))+
 geom_bar(stat="Identity", position=position_dodge(), col="white")+facet_wrap(~Region, ncol=1, scales="free_y")
 
