@@ -1,0 +1,465 @@
+Order,Taxa,Genus,BouchonID,ID,Zone,Year,Cover
+1,Psammocora contigua,Psammocora,5,flat_1979,Outer Flat,1979,0
+2,Psammocora haimeana,Psammocora,5,flat_1979,Outer Flat,1979,0.3
+3,Psammocora nierstrassi,Psammocora,5,flat_1979,Outer Flat,1979,0.4
+4,Psammocora profundacella,Psammocora,5,flat_1979,Outer Flat,1979,0
+5,Stylocoeniella armata,Stylocoeniella,5,flat_1979,Outer Flat,1979,0
+6,Stylocoeniella guentheri,Stylocoeniella,5,flat_1979,Outer Flat,1979,0
+7,Pocillopora damicornis,Pocillopora,5,flat_1979,Outer Flat,1979,0.2
+8,Pocillopora eydouxi,Pocillopora,5,flat_1979,Outer Flat,1979,0
+9,Pocillopora verrucosa,Pocillopora,5,flat_1979,Outer Flat,1979,6.1
+10,Acropora abrotanoides,Acropora,5,flat_1979,Outer Flat,1979,2.3
+11,Acropora cerealis,Acropora,5,flat_1979,Outer Flat,1979,4.6
+12,Acropora cytheriea,Acropora,5,flat_1979,Outer Flat,1979,12.5
+13,Acropora humilis,Acropora,5,flat_1979,Outer Flat,1979,1.9
+14,Acropora hyancinthus,Acropora,5,flat_1979,Outer Flat,1979,1.5
+15,Acropora intermedia,Acropora,5,flat_1979,Outer Flat,1979,1.3
+16,Acropora nobilis,Acropora,5,flat_1979,Outer Flat,1979,5.4
+17,Acropora palmarae,Acropora,5,flat_1979,Outer Flat,1979,0
+18,Acropora robusta,Acropora,5,flat_1979,Outer Flat,1979,0
+19,Acropora tenuis,Acropora,5,flat_1979,Outer Flat,1979,0.4
+20,Acropora valida,Acropora,5,flat_1979,Outer Flat,1979,0
+21,Acropora variablilis,Acropora,5,flat_1979,Outer Flat,1979,2.5
+22,Astreopora myriopthalma,Astreopora,5,flat_1979,Outer Flat,1979,0
+24,Montipora circumvallata,Montipora,5,flat_1979,Outer Flat,1979,0
+25,Montipora erythraea,Montipora,5,flat_1979,Outer Flat,1979,7.1
+26,Montipora informis,Montipora,5,flat_1979,Outer Flat,1979,0
+27,Montipora verrucosa,Montipora,5,flat_1979,Outer Flat,1979,2.7
+28,Pavona cactus,Pavona,5,flat_1979,Outer Flat,1979,0.2
+29,Pavona maldiviensis,Pavona,5,flat_1979,Outer Flat,1979,0
+30,Pavona minuta,Pavona,5,flat_1979,Outer Flat,1979,0
+31,Pavona varians,Pavona,5,flat_1979,Outer Flat,1979,1.3
+32,Leptoseris incrustans,Leptoseris,5,flat_1979,Outer Flat,1979,0
+33,Leptoseris mycetoseroides,Leptoseris,5,flat_1979,Outer Flat,1979,0
+34,Gardinoseris planulata,Gardinoseris,5,flat_1979,Outer Flat,1979,0
+35,Pachyseris speciosa,Pachyseris,5,flat_1979,Outer Flat,1979,0
+36,Fungia concinna,Fungia,5,flat_1979,Outer Flat,1979,0.2
+37,Fungia danai,Fungia,5,flat_1979,Outer Flat,1979,0
+38,Fungia klunzingeri,Fungia,5,flat_1979,Outer Flat,1979,0
+39,Fungia paumotensis,Fungia,5,flat_1979,Outer Flat,1979,0
+40,Fungia repanda,Fungia,5,flat_1979,Outer Flat,1979,0.4
+41,Fungia scutaria,Fungia,5,flat_1979,Outer Flat,1979,0
+42,Herpolitha limax,Herpolitha,5,flat_1979,Outer Flat,1979,0.8
+44,Sandolitha robusta,Sandolitha,5,flat_1979,Outer Flat,1979,0
+45,Porites australiensis,Porites,5,flat_1979,Outer Flat,1979,7.9
+46,Porites irregularis,Porites,5,flat_1979,Outer Flat,1979,4.6
+47,Porites lichen,Porites,5,flat_1979,Outer Flat,1979,0
+48,Porites lobata,Porites,5,flat_1979,Outer Flat,1979,10.2
+49,Porites lutea,Porites,5,flat_1979,Outer Flat,1979,19
+50,Porites rus,Porites,5,flat_1979,Outer Flat,1979,1.9
+51,Favia stelligera,Favia,5,flat_1979,Outer Flat,1979,0
+52,Favites abdita,Favites,5,flat_1979,Outer Flat,1979,0
+53,Montastrea curta,Montastrea,5,flat_1979,Outer Flat,1979,0.4
+54,Leptastrea purpurea,Leptastrea,5,flat_1979,Outer Flat,1979,0.4
+55,Leptastrea transversa,Leptastrea,5,flat_1979,Outer Flat,1979,1
+56,Cyphastrea micropthalma,Cyphastrea,5,flat_1979,Outer Flat,1979,0
+57,Cyphastrea serailia,Cyphastrea,5,flat_1979,Outer Flat,1979,0
+58,Acanthastra echinata,Acanthastrea,5,flat_1979,Outer Flat,1979,0
+59,Lobophyllia hemprichii,Lobophyllia,5,flat_1979,Outer Flat,1979,0
+60,Millepora platyphylla,Millepora,5,flat_1979,Outer Flat,1979,0.2
+1,Psammocora contigua,Psammocora,5,flat_1982,Outer Flat,1982,0
+2,Psammocora haimeana,Psammocora,5,flat_1982,Outer Flat,1982,0.5
+3,Psammocora nierstrassi,Psammocora,5,flat_1982,Outer Flat,1982,0
+4,Psammocora profundacella,Psammocora,5,flat_1982,Outer Flat,1982,0
+5,Stylocoeniella armata,Stylocoeniella,5,flat_1982,Outer Flat,1982,0
+6,Stylocoeniella guentheri,Stylocoeniella,5,flat_1982,Outer Flat,1982,0
+7,Pocillopora damicornis,Pocillopora,5,flat_1982,Outer Flat,1982,0
+8,Pocillopora eydouxi,Pocillopora,5,flat_1982,Outer Flat,1982,0
+9,Pocillopora verrucosa,Pocillopora,5,flat_1982,Outer Flat,1982,0
+10,Acropora abrotanoides,Acropora,5,flat_1982,Outer Flat,1982,0
+11,Acropora cerealis,Acropora,5,flat_1982,Outer Flat,1982,0
+12,Acropora cytheriea,Acropora,5,flat_1982,Outer Flat,1982,0
+13,Acropora humilis,Acropora,5,flat_1982,Outer Flat,1982,0
+14,Acropora hyancinthus,Acropora,5,flat_1982,Outer Flat,1982,0
+15,Acropora intermedia,Acropora,5,flat_1982,Outer Flat,1982,0
+16,Acropora nobilis,Acropora,5,flat_1982,Outer Flat,1982,0
+17,Acropora palmarae,Acropora,5,flat_1982,Outer Flat,1982,0
+18,Acropora robusta,Acropora,5,flat_1982,Outer Flat,1982,0
+19,Acropora tenuis,Acropora,5,flat_1982,Outer Flat,1982,0
+20,Acropora valida,Acropora,5,flat_1982,Outer Flat,1982,0
+21,Acropora variablilis,Acropora,5,flat_1982,Outer Flat,1982,0
+22,Astreopora myriopthalma,Astreopora,5,flat_1982,Outer Flat,1982,0
+24,Montipora circumvallata,Montipora,5,flat_1982,Outer Flat,1982,0
+25,Montipora erythraea,Montipora,5,flat_1982,Outer Flat,1982,0
+26,Montipora informis,Montipora,5,flat_1982,Outer Flat,1982,0
+27,Montipora verrucosa,Montipora,5,flat_1982,Outer Flat,1982,0.5
+28,Pavona cactus,Pavona,5,flat_1982,Outer Flat,1982,0
+29,Pavona maldiviensis,Pavona,5,flat_1982,Outer Flat,1982,0
+30,Pavona minuta,Pavona,5,flat_1982,Outer Flat,1982,0
+31,Pavona varians,Pavona,5,flat_1982,Outer Flat,1982,0.5
+32,Leptoseris incrustans,Leptoseris,5,flat_1982,Outer Flat,1982,0
+33,Leptoseris mycetoseroides,Leptoseris,5,flat_1982,Outer Flat,1982,0
+34,Gardinoseris planulata,Gardinoseris,5,flat_1982,Outer Flat,1982,0
+35,Pachyseris speciosa,Pachyseris,5,flat_1982,Outer Flat,1982,0
+36,Fungia concinna,Fungia,5,flat_1982,Outer Flat,1982,0
+37,Fungia danai,Fungia,5,flat_1982,Outer Flat,1982,0
+38,Fungia klunzingeri,Fungia,5,flat_1982,Outer Flat,1982,0
+39,Fungia paumotensis,Fungia,5,flat_1982,Outer Flat,1982,0
+40,Fungia repanda,Fungia,5,flat_1982,Outer Flat,1982,0
+41,Fungia scutaria,Fungia,5,flat_1982,Outer Flat,1982,0
+42,Herpolitha limax,Herpolitha,5,flat_1982,Outer Flat,1982,0
+44,Sandolitha robusta,Sandolitha,5,flat_1982,Outer Flat,1982,0
+45,Porites australiensis,Porites,5,flat_1982,Outer Flat,1982,0
+46,Porites irregularis,Porites,5,flat_1982,Outer Flat,1982,27.3
+47,Porites lichen,Porites,5,flat_1982,Outer Flat,1982,0
+48,Porites lobata,Porites,5,flat_1982,Outer Flat,1982,23.3
+49,Porites lutea,Porites,5,flat_1982,Outer Flat,1982,44.5
+50,Porites rus,Porites,5,flat_1982,Outer Flat,1982,0.9
+51,Favia stelligera,Favia,5,flat_1982,Outer Flat,1982,0
+52,Favites abdita,Favites,5,flat_1982,Outer Flat,1982,0
+53,Montastrea curta,Montastrea,5,flat_1982,Outer Flat,1982,0.3
+54,Leptastrea purpurea,Leptastrea,5,flat_1982,Outer Flat,1982,0.6
+55,Leptastrea transversa,Leptastrea,5,flat_1982,Outer Flat,1982,0
+56,Cyphastrea micropthalma,Cyphastrea,5,flat_1982,Outer Flat,1982,0
+57,Cyphastrea serailia,Cyphastrea,5,flat_1982,Outer Flat,1982,0
+58,Acanthastra echinata,Acanthastrea,5,flat_1982,Outer Flat,1982,0
+59,Lobophyllia hemprichii,Lobophyllia,5,flat_1982,Outer Flat,1982,0
+60,Millepora platyphylla,Millepora,5,flat_1982,Outer Flat,1982,1.8
+1,Psammocora contigua,Psammocora,6,crest_1979,Crest,1979,0
+2,Psammocora haimeana,Psammocora,6,crest_1979,Crest,1979,0.5
+3,Psammocora nierstrassi,Psammocora,6,crest_1979,Crest,1979,0
+4,Psammocora profundacella,Psammocora,6,crest_1979,Crest,1979,0
+5,Stylocoeniella armata,Stylocoeniella,6,crest_1979,Crest,1979,0
+6,Stylocoeniella guentheri,Stylocoeniella,6,crest_1979,Crest,1979,0
+7,Pocillopora damicornis,Pocillopora,6,crest_1979,Crest,1979,7.1
+8,Pocillopora eydouxi,Pocillopora,6,crest_1979,Crest,1979,2
+9,Pocillopora verrucosa,Pocillopora,6,crest_1979,Crest,1979,31.5
+10,Acropora abrotanoides,Acropora,6,crest_1979,Crest,1979,0
+11,Acropora cerealis,Acropora,6,crest_1979,Crest,1979,0
+12,Acropora cytheriea,Acropora,6,crest_1979,Crest,1979,0
+13,Acropora humilis,Acropora,6,crest_1979,Crest,1979,13.2
+14,Acropora hyancinthus,Acropora,6,crest_1979,Crest,1979,1.5
+15,Acropora intermedia,Acropora,6,crest_1979,Crest,1979,0
+16,Acropora nobilis,Acropora,6,crest_1979,Crest,1979,0
+17,Acropora palmarae,Acropora,6,crest_1979,Crest,1979,1
+18,Acropora robusta,Acropora,6,crest_1979,Crest,1979,0
+19,Acropora tenuis,Acropora,6,crest_1979,Crest,1979,0
+20,Acropora valida,Acropora,6,crest_1979,Crest,1979,0
+21,Acropora variablilis,Acropora,6,crest_1979,Crest,1979,0
+22,Astreopora myriopthalma,Astreopora,6,crest_1979,Crest,1979,0
+24,Montipora circumvallata,Montipora,6,crest_1979,Crest,1979,0
+25,Montipora erythraea,Montipora,6,crest_1979,Crest,1979,19.3
+26,Montipora informis,Montipora,6,crest_1979,Crest,1979,0
+27,Montipora verrucosa,Montipora,6,crest_1979,Crest,1979,0
+28,Pavona cactus,Pavona,6,crest_1979,Crest,1979,0
+29,Pavona maldiviensis,Pavona,6,crest_1979,Crest,1979,0
+30,Pavona minuta,Pavona,6,crest_1979,Crest,1979,0
+31,Pavona varians,Pavona,6,crest_1979,Crest,1979,4.1
+32,Leptoseris incrustans,Leptoseris,6,crest_1979,Crest,1979,0
+33,Leptoseris mycetoseroides,Leptoseris,6,crest_1979,Crest,1979,0
+34,Gardinoseris planulata,Gardinoseris,6,crest_1979,Crest,1979,0
+35,Pachyseris speciosa,Pachyseris,6,crest_1979,Crest,1979,0
+36,Fungia concinna,Fungia,6,crest_1979,Crest,1979,0
+37,Fungia danai,Fungia,6,crest_1979,Crest,1979,0
+38,Fungia klunzingeri,Fungia,6,crest_1979,Crest,1979,0
+39,Fungia paumotensis,Fungia,6,crest_1979,Crest,1979,0
+40,Fungia repanda,Fungia,6,crest_1979,Crest,1979,0
+41,Fungia scutaria,Fungia,6,crest_1979,Crest,1979,0
+42,Herpolitha limax,Herpolitha,6,crest_1979,Crest,1979,0
+44,Sandolitha robusta,Sandolitha,6,crest_1979,Crest,1979,0
+45,Porites australiensis,Porites,6,crest_1979,Crest,1979,0
+46,Porites irregularis,Porites,6,crest_1979,Crest,1979,0
+47,Porites lichen,Porites,6,crest_1979,Crest,1979,0
+48,Porites lobata,Porites,6,crest_1979,Crest,1979,0
+49,Porites lutea,Porites,6,crest_1979,Crest,1979,3
+50,Porites rus,Porites,6,crest_1979,Crest,1979,0
+51,Favia stelligera,Favia,6,crest_1979,Crest,1979,0
+52,Favites abdita,Favites,6,crest_1979,Crest,1979,0
+53,Montastrea curta,Montastrea,6,crest_1979,Crest,1979,6.1
+54,Leptastrea purpurea,Leptastrea,6,crest_1979,Crest,1979,0
+55,Leptastrea transversa,Leptastrea,6,crest_1979,Crest,1979,0.5
+56,Cyphastrea micropthalma,Cyphastrea,6,crest_1979,Crest,1979,0
+57,Cyphastrea serailia,Cyphastrea,6,crest_1979,Crest,1979,0
+58,Acanthastra echinata,Acanthastrea,6,crest_1979,Crest,1979,1
+59,Lobophyllia hemprichii,Lobophyllia,6,crest_1979,Crest,1979,0
+60,Millepora platyphylla,Millepora,6,crest_1979,Crest,1979,9.1
+1,Psammocora contigua,Psammocora,6,crest_1982,Crest,1982,0.3
+2,Psammocora haimeana,Psammocora,6,crest_1982,Crest,1982,0.2
+3,Psammocora nierstrassi,Psammocora,6,crest_1982,Crest,1982,0
+4,Psammocora profundacella,Psammocora,6,crest_1982,Crest,1982,0
+5,Stylocoeniella armata,Stylocoeniella,6,crest_1982,Crest,1982,0
+6,Stylocoeniella guentheri,Stylocoeniella,6,crest_1982,Crest,1982,0
+7,Pocillopora damicornis,Pocillopora,6,crest_1982,Crest,1982,1
+8,Pocillopora eydouxi,Pocillopora,6,crest_1982,Crest,1982,13.2
+9,Pocillopora verrucosa,Pocillopora,6,crest_1982,Crest,1982,5.4
+10,Acropora abrotanoides,Acropora,6,crest_1982,Crest,1982,0
+11,Acropora cerealis,Acropora,6,crest_1982,Crest,1982,0
+12,Acropora cytheriea,Acropora,6,crest_1982,Crest,1982,0
+13,Acropora humilis,Acropora,6,crest_1982,Crest,1982,2.4
+14,Acropora hyancinthus,Acropora,6,crest_1982,Crest,1982,6.1
+15,Acropora intermedia,Acropora,6,crest_1982,Crest,1982,0
+16,Acropora nobilis,Acropora,6,crest_1982,Crest,1982,0
+17,Acropora palmarae,Acropora,6,crest_1982,Crest,1982,9.8
+18,Acropora robusta,Acropora,6,crest_1982,Crest,1982,0
+19,Acropora tenuis,Acropora,6,crest_1982,Crest,1982,0
+20,Acropora valida,Acropora,6,crest_1982,Crest,1982,0
+21,Acropora variablilis,Acropora,6,crest_1982,Crest,1982,0
+22,Astreopora myriopthalma,Astreopora,6,crest_1982,Crest,1982,0
+24,Montipora circumvallata,Montipora,6,crest_1982,Crest,1982,0
+25,Montipora erythraea,Montipora,6,crest_1982,Crest,1982,26.7
+26,Montipora informis,Montipora,6,crest_1982,Crest,1982,0
+27,Montipora verrucosa,Montipora,6,crest_1982,Crest,1982,0
+28,Pavona cactus,Pavona,6,crest_1982,Crest,1982,0
+29,Pavona maldiviensis,Pavona,6,crest_1982,Crest,1982,0
+30,Pavona minuta,Pavona,6,crest_1982,Crest,1982,0
+31,Pavona varians,Pavona,6,crest_1982,Crest,1982,1.1
+32,Leptoseris incrustans,Leptoseris,6,crest_1982,Crest,1982,0
+33,Leptoseris mycetoseroides,Leptoseris,6,crest_1982,Crest,1982,0
+34,Gardinoseris planulata,Gardinoseris,6,crest_1982,Crest,1982,0
+35,Pachyseris speciosa,Pachyseris,6,crest_1982,Crest,1982,0
+36,Fungia concinna,Fungia,6,crest_1982,Crest,1982,0
+37,Fungia danai,Fungia,6,crest_1982,Crest,1982,0
+38,Fungia klunzingeri,Fungia,6,crest_1982,Crest,1982,0
+39,Fungia paumotensis,Fungia,6,crest_1982,Crest,1982,0
+40,Fungia repanda,Fungia,6,crest_1982,Crest,1982,0
+41,Fungia scutaria,Fungia,6,crest_1982,Crest,1982,0
+42,Herpolitha limax,Herpolitha,6,crest_1982,Crest,1982,0
+44,Sandolitha robusta,Sandolitha,6,crest_1982,Crest,1982,0
+45,Porites australiensis,Porites,6,crest_1982,Crest,1982,0
+46,Porites irregularis,Porites,6,crest_1982,Crest,1982,0
+47,Porites lichen,Porites,6,crest_1982,Crest,1982,0
+48,Porites lobata,Porites,6,crest_1982,Crest,1982,1.5
+49,Porites lutea,Porites,6,crest_1982,Crest,1982,0
+50,Porites rus,Porites,6,crest_1982,Crest,1982,0
+51,Favia stelligera,Favia,6,crest_1982,Crest,1982,0
+52,Favites abdita,Favites,6,crest_1982,Crest,1982,0
+53,Montastrea curta,Montastrea,6,crest_1982,Crest,1982,6.4
+54,Leptastrea purpurea,Leptastrea,6,crest_1982,Crest,1982,0.8
+55,Leptastrea transversa,Leptastrea,6,crest_1982,Crest,1982,0.5
+56,Cyphastrea micropthalma,Cyphastrea,6,crest_1982,Crest,1982,0
+57,Cyphastrea serailia,Cyphastrea,6,crest_1982,Crest,1982,0
+58,Acanthastra echinata,Acanthastrea,6,crest_1982,Crest,1982,0
+59,Lobophyllia hemprichii,Lobophyllia,6,crest_1982,Crest,1982,0
+60,Millepora platyphylla,Millepora,6,crest_1982,Crest,1982,24.8
+1,Psammocora contigua,Psammocora,7,slope_1979,Shallow slope,1979,1.1
+2,Psammocora haimeana,Psammocora,7,slope_1979,Shallow slope,1979,0.4
+3,Psammocora nierstrassi,Psammocora,7,slope_1979,Shallow slope,1979,0
+4,Psammocora profundacella,Psammocora,7,slope_1979,Shallow slope,1979,0
+5,Stylocoeniella armata,Stylocoeniella,7,slope_1979,Shallow slope,1979,0
+6,Stylocoeniella guentheri,Stylocoeniella,7,slope_1979,Shallow slope,1979,0
+7,Pocillopora damicornis,Pocillopora,7,slope_1979,Shallow slope,1979,0.2
+8,Pocillopora eydouxi,Pocillopora,7,slope_1979,Shallow slope,1979,0
+9,Pocillopora verrucosa,Pocillopora,7,slope_1979,Shallow slope,1979,20.2
+10,Acropora abrotanoides,Acropora,7,slope_1979,Shallow slope,1979,0
+11,Acropora cerealis,Acropora,7,slope_1979,Shallow slope,1979,3.7
+12,Acropora cytheriea,Acropora,7,slope_1979,Shallow slope,1979,0
+13,Acropora humilis,Acropora,7,slope_1979,Shallow slope,1979,10.3
+14,Acropora hyancinthus,Acropora,7,slope_1979,Shallow slope,1979,5.1
+15,Acropora intermedia,Acropora,7,slope_1979,Shallow slope,1979,0
+16,Acropora nobilis,Acropora,7,slope_1979,Shallow slope,1979,0
+17,Acropora palmarae,Acropora,7,slope_1979,Shallow slope,1979,2
+18,Acropora robusta,Acropora,7,slope_1979,Shallow slope,1979,0
+19,Acropora tenuis,Acropora,7,slope_1979,Shallow slope,1979,0.9
+20,Acropora valida,Acropora,7,slope_1979,Shallow slope,1979,0
+21,Acropora variablilis,Acropora,7,slope_1979,Shallow slope,1979,17.4
+22,Astreopora myriopthalma,Astreopora,7,slope_1979,Shallow slope,1979,0
+24,Montipora circumvallata,Montipora,7,slope_1979,Shallow slope,1979,0
+25,Montipora erythraea,Montipora,7,slope_1979,Shallow slope,1979,0.4
+26,Montipora informis,Montipora,7,slope_1979,Shallow slope,1979,0
+27,Montipora verrucosa,Montipora,7,slope_1979,Shallow slope,1979,0.4
+28,Pavona cactus,Pavona,7,slope_1979,Shallow slope,1979,0
+29,Pavona maldiviensis,Pavona,7,slope_1979,Shallow slope,1979,0
+30,Pavona minuta,Pavona,7,slope_1979,Shallow slope,1979,0.9
+31,Pavona varians,Pavona,7,slope_1979,Shallow slope,1979,7.2
+32,Leptoseris incrustans,Leptoseris,7,slope_1979,Shallow slope,1979,0
+33,Leptoseris mycetoseroides,Leptoseris,7,slope_1979,Shallow slope,1979,0
+34,Gardinoseris planulata,Gardinoseris,7,slope_1979,Shallow slope,1979,0.9
+35,Pachyseris speciosa,Pachyseris,7,slope_1979,Shallow slope,1979,0
+36,Fungia concinna,Fungia,7,slope_1979,Shallow slope,1979,3.5
+37,Fungia danai,Fungia,7,slope_1979,Shallow slope,1979,0.4
+38,Fungia klunzingeri,Fungia,7,slope_1979,Shallow slope,1979,0
+39,Fungia paumotensis,Fungia,7,slope_1979,Shallow slope,1979,0.2
+40,Fungia repanda,Fungia,7,slope_1979,Shallow slope,1979,0
+41,Fungia scutaria,Fungia,7,slope_1979,Shallow slope,1979,5.3
+42,Herpolitha limax,Herpolitha,7,slope_1979,Shallow slope,1979,1.5
+44,Sandolitha robusta,Sandolitha,7,slope_1979,Shallow slope,1979,0.2
+45,Porites australiensis,Porites,7,slope_1979,Shallow slope,1979,0
+46,Porites irregularis,Porites,7,slope_1979,Shallow slope,1979,4.4
+47,Porites lichen,Porites,7,slope_1979,Shallow slope,1979,0
+48,Porites lobata,Porites,7,slope_1979,Shallow slope,1979,0
+49,Porites lutea,Porites,7,slope_1979,Shallow slope,1979,1.5
+50,Porites rus,Porites,7,slope_1979,Shallow slope,1979,0.9
+51,Favia stelligera,Favia,7,slope_1979,Shallow slope,1979,2.9
+52,Favites abdita,Favites,7,slope_1979,Shallow slope,1979,0
+53,Montastrea curta,Montastrea,7,slope_1979,Shallow slope,1979,5
+54,Leptastrea purpurea,Leptastrea,7,slope_1979,Shallow slope,1979,0
+55,Leptastrea transversa,Leptastrea,7,slope_1979,Shallow slope,1979,0.4
+56,Cyphastrea micropthalma,Cyphastrea,7,slope_1979,Shallow slope,1979,0
+57,Cyphastrea serailia,Cyphastrea,7,slope_1979,Shallow slope,1979,0
+58,Acanthastra echinata,Acanthastrea,7,slope_1979,Shallow slope,1979,0.4
+59,Lobophyllia hemprichii,Lobophyllia,7,slope_1979,Shallow slope,1979,0
+60,Millepora platyphylla,Millepora,7,slope_1979,Shallow slope,1979,2.2
+1,Psammocora contigua,Psammocora,7,slope_1982,Shallow slope,1982,0
+2,Psammocora haimeana,Psammocora,7,slope_1982,Shallow slope,1982,0
+3,Psammocora nierstrassi,Psammocora,7,slope_1982,Shallow slope,1982,0
+4,Psammocora profundacella,Psammocora,7,slope_1982,Shallow slope,1982,0
+5,Stylocoeniella armata,Stylocoeniella,7,slope_1982,Shallow slope,1982,0
+6,Stylocoeniella guentheri,Stylocoeniella,7,slope_1982,Shallow slope,1982,0
+7,Pocillopora damicornis,Pocillopora,7,slope_1982,Shallow slope,1982,0
+8,Pocillopora eydouxi,Pocillopora,7,slope_1982,Shallow slope,1982,18.3
+9,Pocillopora verrucosa,Pocillopora,7,slope_1982,Shallow slope,1982,13.7
+10,Acropora abrotanoides,Acropora,7,slope_1982,Shallow slope,1982,0
+11,Acropora cerealis,Acropora,7,slope_1982,Shallow slope,1982,5.5
+12,Acropora cytheriea,Acropora,7,slope_1982,Shallow slope,1982,0
+13,Acropora humilis,Acropora,7,slope_1982,Shallow slope,1982,6.1
+14,Acropora hyancinthus,Acropora,7,slope_1982,Shallow slope,1982,0
+15,Acropora intermedia,Acropora,7,slope_1982,Shallow slope,1982,0
+16,Acropora nobilis,Acropora,7,slope_1982,Shallow slope,1982,0
+17,Acropora palmarae,Acropora,7,slope_1982,Shallow slope,1982,2.3
+18,Acropora robusta,Acropora,7,slope_1982,Shallow slope,1982,0
+19,Acropora tenuis,Acropora,7,slope_1982,Shallow slope,1982,0
+20,Acropora valida,Acropora,7,slope_1982,Shallow slope,1982,0
+21,Acropora variablilis,Acropora,7,slope_1982,Shallow slope,1982,6.8
+22,Astreopora myriopthalma,Astreopora,7,slope_1982,Shallow slope,1982,0
+24,Montipora circumvallata,Montipora,7,slope_1982,Shallow slope,1982,0
+25,Montipora erythraea,Montipora,7,slope_1982,Shallow slope,1982,1.5
+26,Montipora informis,Montipora,7,slope_1982,Shallow slope,1982,3.8
+27,Montipora verrucosa,Montipora,7,slope_1982,Shallow slope,1982,0
+28,Pavona cactus,Pavona,7,slope_1982,Shallow slope,1982,0
+29,Pavona maldiviensis,Pavona,7,slope_1982,Shallow slope,1982,0
+30,Pavona minuta,Pavona,7,slope_1982,Shallow slope,1982,0
+31,Pavona varians,Pavona,7,slope_1982,Shallow slope,1982,6.8
+32,Leptoseris incrustans,Leptoseris,7,slope_1982,Shallow slope,1982,0
+33,Leptoseris mycetoseroides,Leptoseris,7,slope_1982,Shallow slope,1982,0.8
+34,Gardinoseris planulata,Gardinoseris,7,slope_1982,Shallow slope,1982,5.3
+35,Pachyseris speciosa,Pachyseris,7,slope_1982,Shallow slope,1982,0
+36,Fungia concinna,Fungia,7,slope_1982,Shallow slope,1982,1.5
+37,Fungia danai,Fungia,7,slope_1982,Shallow slope,1982,0.8
+38,Fungia klunzingeri,Fungia,7,slope_1982,Shallow slope,1982,0
+39,Fungia paumotensis,Fungia,7,slope_1982,Shallow slope,1982,0.8
+40,Fungia repanda,Fungia,7,slope_1982,Shallow slope,1982,0
+41,Fungia scutaria,Fungia,7,slope_1982,Shallow slope,1982,0.6
+42,Herpolitha limax,Herpolitha,7,slope_1982,Shallow slope,1982,1.5
+44,Sandolitha robusta,Sandolitha,7,slope_1982,Shallow slope,1982,0
+45,Porites australiensis,Porites,7,slope_1982,Shallow slope,1982,0
+46,Porites irregularis,Porites,7,slope_1982,Shallow slope,1982,6.5
+47,Porites lichen,Porites,7,slope_1982,Shallow slope,1982,0
+48,Porites lobata,Porites,7,slope_1982,Shallow slope,1982,0
+49,Porites lutea,Porites,7,slope_1982,Shallow slope,1982,0
+50,Porites rus,Porites,7,slope_1982,Shallow slope,1982,2.4
+51,Favia stelligera,Favia,7,slope_1982,Shallow slope,1982,2.6
+52,Favites abdita,Favites,7,slope_1982,Shallow slope,1982,0
+53,Montastrea curta,Montastrea,7,slope_1982,Shallow slope,1982,7
+54,Leptastrea purpurea,Leptastrea,7,slope_1982,Shallow slope,1982,0
+55,Leptastrea transversa,Leptastrea,7,slope_1982,Shallow slope,1982,0
+56,Cyphastrea micropthalma,Cyphastrea,7,slope_1982,Shallow slope,1982,0
+57,Cyphastrea serailia,Cyphastrea,7,slope_1982,Shallow slope,1982,0
+58,Acanthastra echinata,Acanthastrea,7,slope_1982,Shallow slope,1982,0
+59,Lobophyllia hemprichii,Lobophyllia,7,slope_1982,Shallow slope,1982,0
+60,Millepora platyphylla,Millepora,7,slope_1982,Shallow slope,1982,5.3
+1,Psammocora contigua,Psammocora,8,deep_1979,Mid slope,1979,0
+2,Psammocora haimeana,Psammocora,8,deep_1979,Mid slope,1979,0.4
+3,Psammocora nierstrassi,Psammocora,8,deep_1979,Mid slope,1979,0
+4,Psammocora profundacella,Psammocora,8,deep_1979,Mid slope,1979,0
+5,Stylocoeniella armata,Stylocoeniella,8,deep_1979,Mid slope,1979,0
+6,Stylocoeniella guentheri,Stylocoeniella,8,deep_1979,Mid slope,1979,0
+7,Pocillopora damicornis,Pocillopora,8,deep_1979,Mid slope,1979,0
+8,Pocillopora eydouxi,Pocillopora,8,deep_1979,Mid slope,1979,0
+9,Pocillopora verrucosa,Pocillopora,8,deep_1979,Mid slope,1979,2.2
+10,Acropora abrotanoides,Acropora,8,deep_1979,Mid slope,1979,0
+11,Acropora cerealis,Acropora,8,deep_1979,Mid slope,1979,0
+12,Acropora cytheriea,Acropora,8,deep_1979,Mid slope,1979,0
+13,Acropora humilis,Acropora,8,deep_1979,Mid slope,1979,1.7
+14,Acropora hyancinthus,Acropora,8,deep_1979,Mid slope,1979,0
+15,Acropora intermedia,Acropora,8,deep_1979,Mid slope,1979,0
+16,Acropora nobilis,Acropora,8,deep_1979,Mid slope,1979,0
+17,Acropora palmarae,Acropora,8,deep_1979,Mid slope,1979,0
+18,Acropora robusta,Acropora,8,deep_1979,Mid slope,1979,0
+19,Acropora tenuis,Acropora,8,deep_1979,Mid slope,1979,0
+20,Acropora valida,Acropora,8,deep_1979,Mid slope,1979,0
+21,Acropora variablilis,Acropora,8,deep_1979,Mid slope,1979,1.7
+22,Astreopora myriopthalma,Astreopora,8,deep_1979,Mid slope,1979,2.2
+24,Montipora circumvallata,Montipora,8,deep_1979,Mid slope,1979,0
+25,Montipora erythraea,Montipora,8,deep_1979,Mid slope,1979,1.7
+26,Montipora informis,Montipora,8,deep_1979,Mid slope,1979,0
+27,Montipora verrucosa,Montipora,8,deep_1979,Mid slope,1979,0.4
+28,Pavona cactus,Pavona,8,deep_1979,Mid slope,1979,0
+29,Pavona maldiviensis,Pavona,8,deep_1979,Mid slope,1979,1.3
+30,Pavona minuta,Pavona,8,deep_1979,Mid slope,1979,0.4
+31,Pavona varians,Pavona,8,deep_1979,Mid slope,1979,6.9
+32,Leptoseris incrustans,Leptoseris,8,deep_1979,Mid slope,1979,0.4
+33,Leptoseris mycetoseroides,Leptoseris,8,deep_1979,Mid slope,1979,0.9
+34,Gardinoseris planulata,Gardinoseris,8,deep_1979,Mid slope,1979,4.8
+35,Pachyseris speciosa,Pachyseris,8,deep_1979,Mid slope,1979,0
+36,Fungia concinna,Fungia,8,deep_1979,Mid slope,1979,5.6
+37,Fungia danai,Fungia,8,deep_1979,Mid slope,1979,0
+38,Fungia klunzingeri,Fungia,8,deep_1979,Mid slope,1979,0
+39,Fungia paumotensis,Fungia,8,deep_1979,Mid slope,1979,2.2
+40,Fungia repanda,Fungia,8,deep_1979,Mid slope,1979,0
+41,Fungia scutaria,Fungia,8,deep_1979,Mid slope,1979,0
+42,Herpolitha limax,Herpolitha,8,deep_1979,Mid slope,1979,9.5
+44,Sandolitha robusta,Sandolitha,8,deep_1979,Mid slope,1979,0.9
+45,Porites australiensis,Porites,8,deep_1979,Mid slope,1979,1.7
+46,Porites irregularis,Porites,8,deep_1979,Mid slope,1979,19.5
+47,Porites lichen,Porites,8,deep_1979,Mid slope,1979,0
+48,Porites lobata,Porites,8,deep_1979,Mid slope,1979,0
+49,Porites lutea,Porites,8,deep_1979,Mid slope,1979,6.9
+50,Porites rus,Porites,8,deep_1979,Mid slope,1979,3.5
+51,Favia stelligera,Favia,8,deep_1979,Mid slope,1979,3.5
+52,Favites abdita,Favites,8,deep_1979,Mid slope,1979,0
+53,Montastrea curta,Montastrea,8,deep_1979,Mid slope,1979,6.9
+54,Leptastrea purpurea,Leptastrea,8,deep_1979,Mid slope,1979,0
+55,Leptastrea transversa,Leptastrea,8,deep_1979,Mid slope,1979,9.1
+56,Cyphastrea micropthalma,Cyphastrea,8,deep_1979,Mid slope,1979,0
+57,Cyphastrea serailia,Cyphastrea,8,deep_1979,Mid slope,1979,1.3
+58,Acanthastra echinata,Acanthastrea,8,deep_1979,Mid slope,1979,3.5
+59,Lobophyllia hemprichii,Lobophyllia,8,deep_1979,Mid slope,1979,0.4
+60,Millepora platyphylla,Millepora,8,deep_1979,Mid slope,1979,0.4
+1,Psammocora contigua,Psammocora,8,deep_1982,Mid slope,1982,2.8
+2,Psammocora haimeana,Psammocora,8,deep_1982,Mid slope,1982,0.7
+3,Psammocora nierstrassi,Psammocora,8,deep_1982,Mid slope,1982,0
+4,Psammocora profundacella,Psammocora,8,deep_1982,Mid slope,1982,0
+5,Stylocoeniella armata,Stylocoeniella,8,deep_1982,Mid slope,1982,0
+6,Stylocoeniella guentheri,Stylocoeniella,8,deep_1982,Mid slope,1982,0
+7,Pocillopora damicornis,Pocillopora,8,deep_1982,Mid slope,1982,0
+8,Pocillopora eydouxi,Pocillopora,8,deep_1982,Mid slope,1982,0
+9,Pocillopora verrucosa,Pocillopora,8,deep_1982,Mid slope,1982,24.3
+10,Acropora abrotanoides,Acropora,8,deep_1982,Mid slope,1982,0
+11,Acropora cerealis,Acropora,8,deep_1982,Mid slope,1982,0
+12,Acropora cytheriea,Acropora,8,deep_1982,Mid slope,1982,0
+13,Acropora humilis,Acropora,8,deep_1982,Mid slope,1982,0
+14,Acropora hyancinthus,Acropora,8,deep_1982,Mid slope,1982,0
+15,Acropora intermedia,Acropora,8,deep_1982,Mid slope,1982,0
+16,Acropora nobilis,Acropora,8,deep_1982,Mid slope,1982,0
+17,Acropora palmarae,Acropora,8,deep_1982,Mid slope,1982,0
+18,Acropora robusta,Acropora,8,deep_1982,Mid slope,1982,0
+19,Acropora tenuis,Acropora,8,deep_1982,Mid slope,1982,0
+20,Acropora valida,Acropora,8,deep_1982,Mid slope,1982,1
+21,Acropora variablilis,Acropora,8,deep_1982,Mid slope,1982,0
+22,Astreopora myriopthalma,Astreopora,8,deep_1982,Mid slope,1982,0
+24,Montipora circumvallata,Montipora,8,deep_1982,Mid slope,1982,0
+25,Montipora erythraea,Montipora,8,deep_1982,Mid slope,1982,1.7
+26,Montipora informis,Montipora,8,deep_1982,Mid slope,1982,0
+27,Montipora verrucosa,Montipora,8,deep_1982,Mid slope,1982,0
+28,Pavona cactus,Pavona,8,deep_1982,Mid slope,1982,0
+29,Pavona maldiviensis,Pavona,8,deep_1982,Mid slope,1982,0.7
+30,Pavona minuta,Pavona,8,deep_1982,Mid slope,1982,0
+31,Pavona varians,Pavona,8,deep_1982,Mid slope,1982,5.6
+32,Leptoseris incrustans,Leptoseris,8,deep_1982,Mid slope,1982,0
+33,Leptoseris mycetoseroides,Leptoseris,8,deep_1982,Mid slope,1982,0
+34,Gardinoseris planulata,Gardinoseris,8,deep_1982,Mid slope,1982,4.9
+35,Pachyseris speciosa,Pachyseris,8,deep_1982,Mid slope,1982,0
+36,Fungia concinna,Fungia,8,deep_1982,Mid slope,1982,6.6
+37,Fungia danai,Fungia,8,deep_1982,Mid slope,1982,0
+38,Fungia klunzingeri,Fungia,8,deep_1982,Mid slope,1982,0
+39,Fungia paumotensis,Fungia,8,deep_1982,Mid slope,1982,1.7
+40,Fungia repanda,Fungia,8,deep_1982,Mid slope,1982,0
+41,Fungia scutaria,Fungia,8,deep_1982,Mid slope,1982,1
+42,Herpolitha limax,Herpolitha,8,deep_1982,Mid slope,1982,10.4
+44,Sandolitha robusta,Sandolitha,8,deep_1982,Mid slope,1982,0
+45,Porites australiensis,Porites,8,deep_1982,Mid slope,1982,3.5
+46,Porites irregularis,Porites,8,deep_1982,Mid slope,1982,8.7
+47,Porites lichen,Porites,8,deep_1982,Mid slope,1982,0
+48,Porites lobata,Porites,8,deep_1982,Mid slope,1982,0
+49,Porites lutea,Porites,8,deep_1982,Mid slope,1982,6.9
+50,Porites rus,Porites,8,deep_1982,Mid slope,1982,5.2
+51,Favia stelligera,Favia,8,deep_1982,Mid slope,1982,1
+52,Favites abdita,Favites,8,deep_1982,Mid slope,1982,0
+53,Montastrea curta,Montastrea,8,deep_1982,Mid slope,1982,5.2
+54,Leptastrea purpurea,Leptastrea,8,deep_1982,Mid slope,1982,3.1
+55,Leptastrea transversa,Leptastrea,8,deep_1982,Mid slope,1982,0.7
+56,Cyphastrea micropthalma,Cyphastrea,8,deep_1982,Mid slope,1982,0
+57,Cyphastrea serailia,Cyphastrea,8,deep_1982,Mid slope,1982,1.4
+58,Acanthastra echinata,Acanthastrea,8,deep_1982,Mid slope,1982,1
+59,Lobophyllia hemprichii,Lobophyllia,8,deep_1982,Mid slope,1982,0
+60,Millepora platyphylla,Millepora,8,deep_1982,Mid slope,1982,1.7

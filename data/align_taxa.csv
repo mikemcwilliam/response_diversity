@@ -1,0 +1,59 @@
+﻿jam_old,jam_new,fp_old,fp_new,fpBouch_old,fpBouch_new,gbr_old,gbr_new
+Agaricia agaricites,Agaricia,Acanthastrea.sp.,Mussidae,Psammocora contigua,Psammocora,Pocillopora.damicornis,Pocillopora damicornis
+Agaricia lamarki,Agaricia,Acropora.abrotanoides,Staghorn Acropora,Psammocora haimeana,Psammocora,Other.Pocillopora,Other Pocillopora
+Madracis mirabilis,Madracis,Acropora.austera,Staghorn Acropora,Psammocora nierstrassi,Psammocora,Seriatopora,Seriatopora
+Madracis pharensis,Madracis,Acropora.formosa,Staghorn Acropora,Psammocora profundacella,Psammocora,Stylophora,Stylophora
+Acropora cervicornis,Staghorn Acropora,Acropora.robusta,Staghorn Acropora,Stylocoeniella armata,Stylocoeniella,Montipora,Montipora
+Acropora palmata,Acropora palmata,Acropora.lutkeni,Staghorn Acropora,Stylocoeniella guentheri,Tabular Acropora,Astreopora,Astreopora
+Porites furcata,Porites furcata,Acropora.clathrata,Tabular Acropora,Pocillopora damicornis,Pocillopora damicornis,Isopora,Isopora
+Porites astreoides,Porites astreoides,Acropora.hyacinthus,Tabular Acropora,Pocillopora eydouxi,Other Pocillopora,Acropora.hyacinthus,Tabular Acropora
+Orbicella annularis,Orbicella,Acropora.cerialis,Bushy Acropora,Pocillopora verrucosa,Other Pocillopora,Acropora.aspera.Group,Staghorn Acropora
+Montastrea cavernosa,Montastrea cavernosa,Acropora.striata.,Bushy Acropora,Acropora abrotanoides,Staghorn Acropora,Acropora.divaricata.Group,Tabular Acropora
+Leptoseris cucullata,Helioseris,Acropora.globiceps,Digitate Acropora,Acropora cerealis,Bushy Acropora,Acropora.echinata.Group,Bushy Acropora
+Favia fragum,Favia,Acropora.nasuta,Bushy Acropora,Acropora cytheriea,Tabular Acropora,Acropora.florida.Group,Staghorn Acropora
+Diploria,Other Faviidae,Acropora.retusa,Digitate Acropora,Acropora humilis,Digitate Acropora,Acropora.formosa.Group,Staghorn Acropora
+Favia,Other Faviidae,Acropora.secale,Bushy Acropora,Acropora hyancinthus,Tabular Acropora,Acropora.horrida.Group,Staghorn Acropora
+Solenastrea,Other Faviidae,Acropora.tenuis,Bushy Acropora,Acropora intermedia,Staghorn Acropora,Acropora.humilis.Group,Digitate Acropora
+Colpophyllia,Colpophyllia,Acropora.valida,Bushy Acropora,Acropora nobilis,Staghorn Acropora,Acropora.hyacinthus.Group,Tabular Acropora
+Dichocoenia,Dichocoenia,Acropora.verweyi,Bushy Acropora,Acropora palmarae,Staghorn Acropora,Acropora.latistella.Group,Bushy Acropora
+Isophyllia,Isophyllia,Astreopora.myriophthalma,Astreopora,Acropora robusta,Staghorn Acropora,Acropora.loripes.Group,Bushy Acropora
+Mycetophyllia,Mycetophyllia,Coeloserissp.,Other Agariciidae,Acropora tenuis,Bushy Acropora,Acropora.lovelli.Group,Staghorn Acropora
+Scolymia,Scolymia,Cyphastrea.sp.,Other Faviidae,Acropora valida,Bushy Acropora,Acropora.nasuta.Group,Bushy Acropora
+Siderastrea,Siderastrea,Echinopora.horrida,Echinopora,Acropora variablilis,Bushy Acropora,Acropora.robusta.Group,Staghorn Acropora
+,,Favites.stelligera,Goniastrea,Astreopora myriopthalma,Astreopora,Acropora.selago.Group,Bushy Acropora
+,,Favites.abdita,Other Faviidae,Montipora circumvallata,Montipora,Porites,Massive Porites
+,,Fungia.sp.,Fungiidae,Montipora erythraea,Montipora,Goniopora,Goniopora
+,,Gardineroseris.sp.,Other Agariciidae,Montipora informis,Montipora,Psammacora,Psammocora
+,,Leptastrea.sp.,Other Faviidae,Montipora verrucosa,Montipora,Coscinaraea,Other Agariciidae
+,,Lobophyllia.sp.,Mussidae,Pavona cactus,Pavona,Pavona,Pavona
+,,Montastrea.curta,Other Faviidae,Pavona maldiviensis,Pavona,Leptoseris,Other Agariciidae
+,,Montipora.efflorescens,Montipora,Pavona minuta,Pavona,Coleoseris,Other Agariciidae
+,,Montipora.verrucosa,Montipora,Pavona varians,Pavona,Pachyseris,Other Agariciidae
+,,Montipora.hispida....,Montipora,Leptoseris incrustans,Other Agariciidae,Fungiidae,Fungiidae
+,,Montiopora.encursting,Montipora,Leptoseris mycetoseroides,Other Agariciidae,Galaxea,Galaxea
+,,Pachyserissp.,Pachyseris,Gardinoseris planulata,Other Agariciidae,Echinophyllia,Pectiniidae
+,,Pavona.cactus,Pavona,Pachyseris speciosa,Other Agariciidae,Oxypora,Pectiniidae
+,,Pavona.encrusting,Pavona,Fungia concinna,Fungiidae,Mycedium,Pectiniidae
+,,Platygyra.sp.,Other Faviidae,Fungia danai,Fungiidae,Pectinia,Pectiniidae
+,,Pocillopora.damicornis,Pocillopora damicornis,Fungia klunzingeri,Fungiidae,Scolymia,Scolymia
+,,Pocillopora.eydouxi..wood,Other Pocillopora,Fungia paumotensis,Fungiidae,Acanthastrea,Mussidae
+,,Pocillopora.meandrina..verrucosa,Other Pocillopora,Fungia repanda,Fungiidae,Lobophyllia,Mussidae
+,,Porites.irregularis,Branching Porites,Fungia scutaria,Fungiidae,Symphyllia,Mussidae
+,,Porites.rus,Branching Porites,Herpolitha limax,Fungiidae,Hydonophora,Hydnophora
+,,Porites.lobata..lutea,Massive Porites,Sandolitha robusta,Fungiidae,Merulina,Merulina
+,,Psammacora.sp.,Psammocora,Porites australiensis,Massive Porites,Caulastrea,Other Faviidae
+,,,,Porites irregularis,Branching Porites,Favia,Other Faviidae
+,,,,Porites lichen,Massive Porites,Favites,Other Faviidae
+,,,,Porites lobata,Massive Porites,Goniastrea,Goniastrea
+,,,,Porites lutea,Massive Porites,Platygyra,Other Faviidae
+,,,,Porites rus,Branching Porites,Leptoria,Other Faviidae
+,,,,Favia stelligera,Goniastrea,Montastrea,Other Faviidae
+,,,,Favites abdita,Other Faviidae,Pleisiastrea,Other Faviidae
+,,,,Montastrea curta,Other Faviidae,Diploastrea,Diploastrea
+,,,,Leptastrea purpurea,Other Faviidae,Leptastrea,Other Faviidae
+,,,,Leptastrea transversa,Other Faviidae,Cyphastrea,Other Faviidae
+,,,,Cyphastrea micropthalma,Other Faviidae,Echinopora,Echinopora
+,,,,Cyphastrea serailia,Other Faviidae,Caryophillidae,NA
+,,,,Acanthastra echinata,Mussidae,Turbinaria,Turbinaria
+,,,,Lobophyllia hemprichii,Mussidae,Heliopora,NA
+,,,,Millepora platyphylla,NA,Millepora,NA

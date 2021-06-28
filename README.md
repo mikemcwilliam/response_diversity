@@ -1,1 +1,2 @@
-# response_diversity
+- Data and code from the 2020 paper "Deficits in functional trait diversity following recovery on coral reefs"
+- https://doi.org/10.1098/rspb.2019.2628
